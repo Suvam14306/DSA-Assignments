@@ -3,12 +3,6 @@ in an array of n elements. Find out the positions where the maximum first occurs
 minimum last occurs.*/
 
 
-
-
-
-
-
-
 import java.util.Scanner;
 public class program2 {
 
@@ -58,12 +52,6 @@ public class program2 {
 		System.out.println("Minimum element of Array is"+min+" occurs"+count2+"times");
 		System.out.println("First occurrence of maximum element is at position"+maxIndex);
 		System.out.println("Last occurrence of maximum element is at position"+minIndex);
-		
-		
-		
-		
-		
-		
 		
 		
 
